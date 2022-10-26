@@ -1,6 +1,6 @@
 # Tutorial
 testing
 
-3
+other 3
 
-new feature 1
+new feature 2
