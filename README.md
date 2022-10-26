@@ -8,4 +8,4 @@ new feature 2
 
 another final new feature
 
-more
+more and more
