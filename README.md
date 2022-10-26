@@ -1,5 +1,3 @@
 # Tutorial
 
-more testing
-
-3
+main development status
