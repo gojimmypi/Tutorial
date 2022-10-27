@@ -12,4 +12,4 @@ more and more and more
 
 New feature #4
 
-Squash 1
+Squash 2
