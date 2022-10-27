@@ -11,3 +11,5 @@ another final new feature
 more and more and more
 
 New feature #4
+
+Squash 3
